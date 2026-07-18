@@ -1,10 +1,5 @@
 # Solution_Seekers_Covid19
 COVID-19 Global Case Trends 
-Saachi Yadav :- KU2407U190 
-Hiya Kansara :- KU2407U081
-Precy Patel :- KU2407U170
-Prachi Jain :-KU2407U782
-
 Topic 
 Analyze and visualize COVID-19 case trends and vaccination data by country.
 
